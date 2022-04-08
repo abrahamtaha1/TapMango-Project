@@ -1,7 +1,10 @@
 ## Website User Manual!
 Select plants to water and click submit button which gives a alert that watering takes 10 seconds!
+
 Countdown begins for the plants that have been watered within the past 30 seconds and disables their checkboxes!
+
 Checkboxes can be reenabled the next time the button is clicked if and only if the cooldown has reached zero!
+
 User will also be alerted if a plant has not been watered in the past 6 hours!
 
 # TapMangoApp
